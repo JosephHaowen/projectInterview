@@ -1,7 +1,9 @@
 # projectInterview
 
 Timeline: 2 days(material reading) + 2 days(coding)
+
 progress: 50%, 2 queries left
+
 How to run: 1. download the source code. 
             2. "virtual env"
             3. "source env/bin/activate"
